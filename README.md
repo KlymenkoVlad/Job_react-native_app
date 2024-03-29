@@ -1,14 +1,11 @@
-# Expo Router Example
+### App Description:
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+**Overview:**
+ReactNativeJobs is a cutting-edge mobile application designed to empower developers in finding job opportunities specifically tailored for React Native expertise. With a sleek and intuitive interface, this app streamlines the job search process, providing developers with access to a curated list of job postings from top companies seeking React Native talent.
 
-## 🚀 How to use
+**Technologies Used:**
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+- **React Native:** Leveraging the power of React Native for cross-platform compatibility and native-like performance.
+- **Expo:** Integrated Expo for simplified development workflows, rapid prototyping, and easy deployment.
+- **Axios:** Utilized Axios for handling HTTP requests, ensuring efficient communication with backend servers.
+- **React Navigation:** Implemented React Navigation for seamless navigation within the app, providing users with an intuitive browsing experience.
